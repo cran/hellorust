@@ -1,0 +1,15 @@
+48aba225c7baba116c4746382b06491c *DESCRIPTION
+98c71b5eae0ac8dabb055bd8883b8398 *LICENSE
+8b3cd218f07e8bab3881d7c2dae0a7b5 *NAMESPACE
+2e4ceb381a7132fe203a5b1a4ada1d59 *R/hello.R
+c7566b230f92ac1651e49e9a6e0dfed6 *configure
+c121fff793cf99145c3e00066ab6d5ce *man/hellorust.Rd
+036ada89e1552a003ec3d50faf59b56e *src/Makevars
+9ad09a094102236ca8b3492e5c03b8a9 *src/Makevars.win
+ef71b94f65427e8b3d13bedc0c1d531e *src/myrustlib/Cargo.toml
+4a2911039ca3e4866f73cade3690aaf4 *src/myrustlib/api.h
+02b4f6eefbf9cf16297982cbb452c6dc *src/myrustlib/src/hello.rs
+09706f04dab27e1ffec82c4e27c1adc0 *src/myrustlib/src/lib.rs
+294b565096af74ea270195b9468fbf77 *src/myrustlib/src/mythreads.rs
+bccc358ecfcd5a4df03b990a83ea5061 *src/myrustlib/src/random.rs
+5c13b413c55887de75baf30ad1037da7 *src/wrapper.c
