@@ -1,5 +1,5 @@
-48aba225c7baba116c4746382b06491c *DESCRIPTION
-98c71b5eae0ac8dabb055bd8883b8398 *LICENSE
+0c98b426032cb82f38e3a1b84da437ad *DESCRIPTION
+c3a98f95aadeb3c3f93a4a433b0f9980 *LICENSE
 8b3cd218f07e8bab3881d7c2dae0a7b5 *NAMESPACE
 2e4ceb381a7132fe203a5b1a4ada1d59 *R/hello.R
 c7566b230f92ac1651e49e9a6e0dfed6 *configure
@@ -13,3 +13,5 @@ ef71b94f65427e8b3d13bedc0c1d531e *src/myrustlib/Cargo.toml
 294b565096af74ea270195b9468fbf77 *src/myrustlib/src/mythreads.rs
 bccc358ecfcd5a4df03b990a83ea5061 *src/myrustlib/src/random.rs
 5c13b413c55887de75baf30ad1037da7 *src/wrapper.c
+2f69f56342e2b3b5340a55911b6035f0 *tests/cargo.R
+6db83b54efdb12cae419a353b18f2e4e *tests/cargo.Rout.save
