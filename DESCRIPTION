@@ -1,7 +1,7 @@
 Package: hellorust
 Type: Package
 Title: Minimal Examples of Using Rust Code in R
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: person("Jeroen", "Ooms", role = c("aut", "cre"), email = "jeroen@berkeley.edu",
     comment = c(ORCID = "0000-0002-4035-0289"))
 Description: Template R package with minimal setup to use Rust code in R without
@@ -18,8 +18,8 @@ SystemRequirements: Cargo (rustc package manager)
 Encoding: UTF-8
 RoxygenNote: 7.2.1
 NeedsCompilation: yes
-Packaged: 2022-11-28 13:49:10 UTC; jeroen
+Packaged: 2023-06-08 17:07:29 UTC; jeroen
 Author: Jeroen Ooms [aut, cre] (<https://orcid.org/0000-0002-4035-0289>)
 Maintainer: Jeroen Ooms <jeroen@berkeley.edu>
 Repository: CRAN
-Date/Publication: 2022-11-28 14:20:02 UTC
+Date/Publication: 2023-06-08 17:20:02 UTC
