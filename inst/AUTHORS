@@ -1,6 +1,6 @@
 Authors of vendored cargo crates
  - fuchsia-cprng 0.1.1: Erick Tryzelaar
- - libc 0.2.149: The Rust Project Developers
+ - libc 0.2.158: The Rust Project Developers
  - rand 0.4.6: The Rust Project Developers
  - rand_core 0.3.1: The Rand Project Developers, The Rust Project Developers
  - rand_core 0.4.2: The Rand Project Developers, The Rust Project Developers
@@ -9,4 +9,4 @@ Authors of vendored cargo crates
  - winapi-i686-pc-windows-gnu 0.4.0: Peter Atashian
  - winapi-x86_64-pc-windows-gnu 0.4.0: Peter Atashian
 
-(This file was auto-generated from 'cargo metadata' on 2023-10-11)
+(This file was auto-generated from 'cargo metadata' on 2024-09-19)
