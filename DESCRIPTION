@@ -1,7 +1,7 @@
 Package: hellorust
 Type: Package
 Title: Minimal Examples of Using Rust Code in R
-Version: 1.2.1
+Version: 1.2.2
 Authors@R: c(person("Jeroen", "Ooms", role = c("aut", "cre"), email = "jeroenooms@gmail.com",
     comment = c(ORCID = "0000-0002-4035-0289")),
       person("Authors of the dependency Rust crates", role = "aut", comment = "see AUTHORS file"))
@@ -20,9 +20,9 @@ SystemRequirements: Cargo (Rust's package manager), rustc
 Encoding: UTF-8
 RoxygenNote: 7.2.1
 NeedsCompilation: yes
-Packaged: 2024-09-19 17:09:37 UTC; jeroen
+Packaged: 2024-09-22 11:23:55 UTC; jeroen
 Author: Jeroen Ooms [aut, cre] (<https://orcid.org/0000-0002-4035-0289>),
   Authors of the dependency Rust crates [aut] (see AUTHORS file)
 Maintainer: Jeroen Ooms <jeroenooms@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-09-20 14:10:06 UTC
+Date/Publication: 2024-09-22 14:50:06 UTC
